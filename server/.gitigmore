@@ -1,0 +1,3 @@
+//in firebase serviceaccount json file -->go to firebase setting -> project setting -->serviveaccount -->generate new p-key -->download it 
+node_modules
+.env
