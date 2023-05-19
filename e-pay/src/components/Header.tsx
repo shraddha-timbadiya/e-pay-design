@@ -76,13 +76,13 @@ const Header: React.FC = () => {
         </section>
       </header>
       <div className="ld-icon">
-        <a onClick={darkMode}>
+        <div onClick={darkMode}>
           <img src="images/moon.png" alt="" className="moon" id="moonicon" />
           {/* <img src="images/sun.png" alt=""  className='moon' id='icon'/> */}
-        </a>
-        <a onClick={lightMode}>
+        </div>
+        <div onClick={lightMode}>
           <img src="images/sun.png" alt="" className="sun" id="sunicon" />
-        </a>
+        </div>
       </div>
     </>
   );

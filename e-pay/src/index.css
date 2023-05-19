@@ -994,6 +994,9 @@ footer #main-hero-para {
     justify-content: center;
     align-items: center;
   }
+  .sub-btn{
+    margin-top: -10rem;
+  }
   .social {
     margin-left: 3rem;
   }
